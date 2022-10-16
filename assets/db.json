@@ -1,0 +1,108 @@
+{
+    "addresses":[
+            {
+                "title":"Home Address",
+                "subTitle":"Mustafa St. No:2 Street x12"
+
+            },
+            {
+                "title":"Office Address",
+                "subTitle":"Axis Istanbul, B2 Blok Floor 2, Office 11"    
+            }
+        ],
+    "categories":[
+            {"title":"Steak", "color": "#F9BDAD"},
+            {"title":"Vegetables", "color": "#FAD96D"},
+            {"title":"Beverages", "color": "#CCB8FF"},
+            {"title":"Fish", "color": "#B0EAFD"},
+            {"title":"Juice", "color": "#FF9DC2"},
+            {"title":"Steak", "color": "#F9BDAD"},
+            {"title":"Vegetables", "color": "#FAD96D"},
+            {"title":"Beverages", "color": "#CCB8FF"},
+            {"title":"Fish", "color": "#B0EAFD"},
+            {"title":"Juice", "color": "#FF9DC2"}
+        ],
+    "deals":[
+            {
+                "name":"Summer Sun Ice Cream Pack1",
+            "noPieces": 5,
+            "time": 15,
+            "newPrice": 12,
+            "oldPrice": 15},
+            {
+                "name":"Summer Sun Ice Cream Pack2",
+            "noPieces": 5,
+            "time": 30,
+            "newPrice": 11,
+            "oldPrice": 18},
+            {
+                "name":"Summer Sun Ice Cream Pack3",
+            "noPieces": 5,
+            "time": 20,
+            "newPrice": 22,
+            "oldPrice": 28},
+            {
+                "name":"Summer Sun Ice Cream Pack4",
+            "noPieces": 5,
+            "time": 17,
+            "newPrice": 31,
+            "oldPrice": 38}
+        ],
+        "cart":[
+            {
+                "id":1,
+            "name":"Turkish Steak",
+            "weight": "173 Grams",
+            "price": 25,
+            "color": "#FF9DC2"
+            },
+            {
+                "id":2,
+                "name":"Salmon",
+                "weight": "2 Serving",
+                "price": 30,
+                "color": "#FAD96D"
+            },
+            {
+                "id":3,
+                "name":"Red Juice",
+            "weight": "1 Bottle",
+            "price": 25,
+            "color": "#CCB8FF"
+        },
+            {
+                "id":4,
+                "name":"Cola",
+                "weight": "1 Bottle",
+                "price": 11,
+                "color": "#B0EAFD"
+            }
+        ],
+        "favorits":[
+            {
+                "name":"Summer Sun Ice Cream Pack1",
+            "noPieces": 5,
+            "time": 15,
+            "newPrice": 12,
+            "oldPrice": 15},
+            {
+                "name":"Summer Sun Ice Cream Pack2",
+            "noPieces": 5,
+            "time": 30,
+            "newPrice": 11,
+            "oldPrice": 18},
+            {
+                "name":"Summer Sun Ice Cream Pack3",
+            "noPieces": 5,
+            "time": 20,
+            "newPrice": 22,
+            "oldPrice": 28},
+            {
+                "name":"Summer Sun Ice Cream Pack4",
+            "noPieces": 5,
+            "time": 17,
+            "newPrice": 31,
+            "oldPrice": 38}
+        ]
+        
+}
